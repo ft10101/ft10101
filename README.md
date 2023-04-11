@@ -1,7 +1,7 @@
 ### Asalaamu Alaikum (blessings be upon you)
 
-My name **Peerzada Mohammad Sameem Makhdoomi. (PMSM)**.\
-I am a **Cyber security and AI Enthusiast**.\
+My name is **Peerzada Mohammad Sameem Makhdoomi.(MSM)**.\
+I am a **Cyber security and AI ML Enthusiast**.\
 I am a **Computer Science student** at **Central University Of Kashmir**.\
 
 ### Github Statistic
