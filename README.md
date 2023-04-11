@@ -1,8 +1,9 @@
 ### Asalaamu Alaikum (blessings be upon you)
 
-My name is **Peerzada Mohammad Sameem Makhdoomi.(MSM)**.\
+
+My name is **Mohammad Sameem. (MSM)**.\
 I am a **Cyber security and AI ML Enthusiast**.\
-I am a **Computer Science student** at **Central University Of Kashmir**.\
+
 
 ### Github Statistic
 <p align="left">
