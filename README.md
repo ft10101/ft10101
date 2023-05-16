@@ -19,8 +19,8 @@ I'm constantly expanding my knowledge and exploring new technologies. Currently,
 I'm passionate about working on personal projects in my free time. Here are some of the projects I've developed:
 
 - [Project 1](https://github.com/ft10101/Projects/blob/main/Plant_Disease_Detection_using_keras_(Apples).ipynb): Aims to classify images of apple tree leaves into different categories based on the type of apple tree they belong to using various Machine Learning models.
-- [Project 2]([https://github.com/author/project-b](https://github.com/ft10101/Projects/blob/main/LSTM_model_(shakespare).ipynb)): Aims to generate random poetic verses in the style of Shakespeare using an LSTM (Long Short-Term Memory) model. The model is trained on the works of Shakespeare to capture the patterns and styles present in his writing. This model is then used to generate new verses that maintain the essence of Shakespeare's writing. 
-- [Project 3]([https://github.com/author/project-b](https://github.com/ft10101/Projects/blob/main/Advance_Math_in_Python.ipynb)): Aims to solve advance integration usig python. 
+- [Project 2](https://github.com/ft10101/Projects/blob/main/LSTM_model_(shakespare).ipynb): Aims to generate random poetic verses in the style of Shakespeare using an LSTM (Long Short-Term Memory) model. The model is trained on the works of Shakespeare to capture the patterns and styles present in his writing. This model is then used to generate new verses that maintain the essence of Shakespeare's writing. 
+- [Project 3](https://github.com/ft10101/Projects/blob/main/Advance_Math_in_Python.ipynb): Aims to solve advance integration usig python. 
 
 
 ## 📫 Get in Touch
@@ -30,7 +30,7 @@ I enjoy connecting with like-minded individuals and discussing exciting opportun
 - Email: instagramsameem@gmail.com
 
 ## 📈 GitHub Stats
-[!](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=dark)](https://github.com/ft10101)
+[![Sameem Makhdoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ft10101&count_private=true&show_icons=true&theme=dark)](https://github.com/ft10101)
 
 ## 🎯 Goals for the Future
 - Learn AI-ML and Cryptography
