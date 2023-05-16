@@ -7,8 +7,8 @@
 Welcome to my profile! I'm a passionate Cyber Security and Machine Learning enthusiast based in the beautiful region of Kashmir, where I strive to combine my love for technology with my dedication to securing digital landscapes and exploring the endless possibilities of machine learning. <br>
 
 ## 💼 Professional Experience
-- **Speak Up World Foundation** (Human Resourse Intern, 24-02-2023 - 14-03-2023): Assisted HR team with recruitment, onboarding, employee engagement, and HR administration tasks as an HR intern.
-- **Speak Up World Foundation** (Social Work Intern, 20-01-2023 - 20-02-2023): Provided support to vulnerable populations, conducted client assessments, and contributed to social work initiatives as a social work intern..
+- **[Speak Up World Foundation](https://github.com/ft10101/Certificates/blob/main/Hr%20internship%20certificate.pdf)** (Human Resourse Intern, 24-02-2023 - 14-03-2023): Assisted HR team with recruitment, onboarding, employee engagement, and HR administration tasks as an HR intern.
+- **[Speak Up World Foundation](https://github.com/ft10101/Certificates/blob/main/speakupworld%20INTERNSHIP.pdf)** (Social Work Intern, 20-01-2023 - 20-02-2023): Provided support to vulnerable populations, conducted client assessments, and contributed to social work initiatives as a social work intern..
 
 ## 🌱 What I'm Learning
 I'm constantly expanding my knowledge and exploring new technologies. Currently, I'm focused on:
