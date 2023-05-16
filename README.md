@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)]((https://twitter.com/sameeeeeeem))
 [![Photography Website](https://img.shields.io/badge/Portfolio-Website-red?style=flat&logo=web)](https://ft10101.000webhostapp.com/)
 
-Welcome to my GitHub profile! I'm a passionate Cyber Security and Machine Learning enthusiast based in Kashmir. 
+Welcome to my GitHub profile! I'm a passionate Cyber Security and Machine Learning enthusiast based in Kashmir. <br>
 Here you'll find a glimpse into my work, skills, and projects.
 
 ## 💼 Professional Experience
