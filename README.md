@@ -36,8 +36,8 @@ I enjoy connecting with like-minded individuals and discussing exciting opportun
 - Learn AI-ML and Cryptography
 - Contribute to more open-source projects
 - Build a strong professional network
-<br>
-<br>
+
+
 Thank you for visiting my profile! 
 Feel free to explore my repositories and get in touch. 
 Let's collaborate and create something awesome together!
