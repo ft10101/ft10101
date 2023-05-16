@@ -5,7 +5,6 @@
 [![Photography Website](https://img.shields.io/badge/Portfolio-Website-red?style=flat&logo=web)](https://ft10101.000webhostapp.com/)
 
 Welcome to my profile! I'm a passionate Cyber Security and Machine Learning enthusiast based in the beautiful region of Kashmir, where I strive to combine my love for technology with my dedication to securing digital landscapes and exploring the endless possibilities of machine learning. <br>
-Here you'll find a glimpse into my work, skills, and projects.
 
 ## 💼 Professional Experience
 - **Speak Up World Foundation** (Human Resourse Intern, 24-02-2023 - 14-03-2023): Assisted HR team with recruitment, onboarding, employee engagement, and HR administration tasks as an HR intern.
