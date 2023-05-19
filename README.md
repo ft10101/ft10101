@@ -38,6 +38,6 @@ I enjoy connecting with like-minded individuals and discussing exciting opportun
 - Build a strong professional network
 
 
-Thank you for visiting my profile! 
-Feel free to explore my repositories and get in touch. 
+Thank you for visiting my profile! <br>
+Feel free to explore my repositories and get in touch. <br>
 Let's collaborate and create something awesome together!
