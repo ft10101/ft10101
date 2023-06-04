@@ -30,6 +30,7 @@ I enjoy connecting with like-minded individuals and discussing exciting opportun
 
 ## 📈 GitHub Stats
 [![Sameem Makhdoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ft10101&count_private=true&show_icons=true&theme=dark)](https://github.com/ft10101)
+
 <br>
 Thank you for visiting my profile! <br>
 Feel free to explore my repositories and get in touch. <br>
