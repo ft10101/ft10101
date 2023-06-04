@@ -8,16 +8,16 @@ Welcome to my profile! I'm a passionate Cyber Security and Machine Learning enth
 
 ## 💼 Professional Experience
 - **[Speak Up World Foundation](https://github.com/ft10101/Certificates/blob/main/Hr%20internship%20certificate.pdf)** (Human Resourse Intern, 24-02-2023 - 14-03-2023): Assisted HR team with recruitment, onboarding, employee engagement, and HR administration tasks as an HR intern.
+- **[Eve Paper](https://github.com/ft10101/Certificates/blob/main/evepaper%20internship.jpeg)** (Research and Promotions Intern, 17-03-2023 - 27-05-2023): Assisted with research tasks, brand analysis, report preparation, and supporting promotional activities such as content creation, event coordination, and recruitment tasks.
 - **[Speak Up World Foundation](https://github.com/ft10101/Certificates/blob/main/speakupworld%20INTERNSHIP.pdf)** (Social Work Intern, 20-01-2023 - 20-02-2023): Provided support to vulnerable populations, conducted client assessments, and contributed to social work initiatives as a social work intern..
 
 ## 🌱 What I'm Learning
 I'm constantly expanding my knowledge and exploring new technologies. Currently, I'm focused on:
-- [Cryptography](https://www.coursera.org/learn/introduction-to-applied-cryptography/home/week/3): This course is a non-mathematical introduction to the role that cryptography plays in providing digital security for everyday applications such as the internet, mobile phones, wireless networks and cryptocurrency.
-- [Social Media Marketing](https://www.coursera.org/learn/social-media-marketing-introduction/home/week/1): Immersing myself in the world of social media marketing, learning about platforms, engagement strategies, analytics, and incorporating it into a broader digital marketing approach.
+- [Foundations of Cyber Security - Google](https://www.coursera.org/learn/foundations-of-cybersecurity/): This course offers a comprehensive and professional introduction to cybersecurity, encompassing crucial subjects such as the historical context, job responsibilities, security attacks, frameworks, and commonly used tools. 
+- [Social Media Marketing - Meta](https://www.coursera.org/learn/social-media-marketing-introduction/): Immersing myself in the world of social media marketing, learning about platforms, engagement strategies, analytics, and incorporating it into a broader digital marketing approach.
 
 ## 🚀 Personal Projects
 I'm passionate about working on personal projects in my free time. Here are some of the projects I've developed:
-
 - [Project 1](https://github.com/ft10101/Projects/blob/main/Plant_Disease_Detection_using_keras_(Apples).ipynb): Aims to classify images of apple tree leaves into different categories based on the type of apple tree they belong to using various Machine Learning models.
 - [Project 2](https://github.com/ft10101/Projects/blob/main/LSTM_model_(shakespare).ipynb): Aims to generate random poetic verses in the style of Shakespeare using an LSTM (Long Short-Term Memory) model. The model is trained on the works of Shakespeare to capture the patterns and styles present in his writing. This model is then used to generate new verses that maintain the essence of Shakespeare's writing. 
 - [Project 3](https://github.com/ft10101/Projects/blob/main/Advance_Math_in_Python.ipynb): Aims to solve advance integration usig python. 
@@ -25,7 +25,6 @@ I'm passionate about working on personal projects in my free time. Here are some
 
 ## 📫 Get in Touch
 I enjoy connecting with like-minded individuals and discussing exciting opportunities. You can reach me through:
-
 - Twitter: [@sameeeeeeem](https://twitter.com/sameeeeeeem)
 - Email: instagramsameem@gmail.com
 
@@ -36,7 +35,6 @@ I enjoy connecting with like-minded individuals and discussing exciting opportun
 - Learn AI-ML and Cryptography
 - Contribute to more open-source projects
 - Build a strong professional network
-<br>
 <br>
 Thank you for visiting my profile! <br>
 Feel free to explore my repositories and get in touch. <br>
